@@ -1,1 +1,2 @@
 This is my first project file
+Second line update from EC2
